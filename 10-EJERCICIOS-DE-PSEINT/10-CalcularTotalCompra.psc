@@ -9,7 +9,7 @@ Algoritmo CalcularTotalCompra
     Escribir 'Ingrese la cantidad comprada de pan:'
     Leer cantidad
     
-    // Validar que la cantidad sea v·lida (mayor a cero)
+    // Validar que la cantidad sea v√°lida (mayor a cero)
     Si cantidad <= 0 Entonces
     Escribir 'Error: La cantidad debe ser mayor a cero.'
     Sino
