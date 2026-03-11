@@ -8,7 +8,7 @@ Algoritmo ClasificarNota
         Escribir "Estado: APROBADO"
     Sino
         Si nota >= 5 Entonces
-            Escribir "Estado: RECUPERACIÓN"
+            Escribir "Estado: RECUPERACIÃ“N"
         Sino
             Escribir "Estado: REPROBADO"
         FinSi
