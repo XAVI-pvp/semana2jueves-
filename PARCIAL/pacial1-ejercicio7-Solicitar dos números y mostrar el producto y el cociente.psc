@@ -1,9 +1,9 @@
 Algoritmo Producto_Cociente
 	Definir numero1, numero2, producto, cociente Como Real
 	
-	Escribir "Ingresa el primer número:"
+	Escribir "Ingresa el primer nÃºmero:"
 	Leer num1
-	Escribir "Ingresa el segundo número:"
+	Escribir "Ingresa el segundo nÃºmero:"
 	Leer numero2
 	
 	producto <- numero1 * numero2
