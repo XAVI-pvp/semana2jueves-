@@ -1,7 +1,7 @@
 Algoritmo elevadoalcuarado
 	Definir n1, resultado Como Real
     
-    Escribir "Ingrese un número:"
+    Escribir "Ingrese un nÃºmero:"
     Leer numero1
     
     // Calculamos el cuadrado
