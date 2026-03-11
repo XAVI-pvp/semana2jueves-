@@ -1,7 +1,7 @@
 Algoritmo sumarestamultiplicaciondivision
 	
 	// Solicitar al usuario
-	// que ingrese dos números enteros
+	// que ingrese dos nÃºmeros enteros
 	// y mostrar la suma,resata, multiplicacion y division  de ambos.
 	Definir NumeroEntrada1, NumeroEntrada2, numeroTotal Como Entero
 	Escribir 'Ingrese un numero para suma,resata, multiplicacion y division'
@@ -19,7 +19,7 @@ FinSi
 	total <- NumeroEntrada1-NumeroEntrada2
 	Escribir ' El numeroTotal de la resta es ', total
 FinSi
-    // Simplemente asigna el valor y muéstralo
+    // Simplemente asigna el valor y muÃ©stralo
     numeroTotal <- NumeroEntrada1 * NumeroEntrada2
     Escribir ' El total de la multiplicacion es ', numeroTotal
     si NumeroEntrada2 = 0 Entonces Escribir 'Error: No se puede dividir por cero.'
