@@ -3,7 +3,7 @@ Algoritmo Ingsenumeroscontinuamente
     suma <- 0
     
        Repetir
-        Escribir "Ingrese un número (negativo para salir):"
+        Escribir "Ingrese un nÃºmero (negativo para salir):"
         Leer num
         
         Si num >= 0 Entonces
