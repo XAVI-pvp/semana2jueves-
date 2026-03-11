@@ -1,7 +1,7 @@
 Algoritmo Multplicacion
 	
 	// Solicitar al usuario
-	// que ingrese dos números enteros
+	// que ingrese dos nÃºmeros enteros
 	// y mostrar la multiplicacion  de ambos.
 	Definir NumeroEntrada1, NumeroEntrada2, numeroTotal Como Entero
 	Escribir 'Ingrese un numero para multiplica '
