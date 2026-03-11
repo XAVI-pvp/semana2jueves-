@@ -1,7 +1,7 @@
 Algoritmo ValidarNumero
 	Definir numero Como Real
 	
-	Escribir "Ingresa un número:"
+	Escribir "Ingresa un nÃºmero:"
 	Leer numero
 	
 	Si numero > 0 Y numero < 100 Entonces
