@@ -1,7 +1,0 @@
-{
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.formatOnSave": true,
-    "python.defaultInterpreterPath": "C:\\Users\\brand\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
-    "python.linting.enabled": true,
-    "python.linting.flake8Enabled": true
-}
