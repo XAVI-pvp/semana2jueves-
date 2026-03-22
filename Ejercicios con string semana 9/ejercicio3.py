@@ -1,0 +1,5 @@
+frase = input("Escribe una frase: ")
+sin_espacios = frase.replace(" ", "")
+cantidad = len(sin_espacios)
+print("La frase original es:", frase)
+print("La cantidad de letras sin espacios es:", cantidad)
