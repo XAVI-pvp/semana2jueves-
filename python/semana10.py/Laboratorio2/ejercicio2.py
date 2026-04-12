@@ -6,7 +6,7 @@ def transformar_texto(texto, opcion):
     elif opcion == 3:
         return texto[0].upper() + texto[1:].lower()
     else:
-        return " no no mi rey inorrecto eso mejor pongase a aprender ingles"
+        return " no no mi rey incorrecto eso mejor pongase a aprender ingles"
 
 
 palabra = input("Introduce una palabra: ")
