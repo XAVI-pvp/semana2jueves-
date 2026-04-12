@@ -6,7 +6,7 @@ def transformar_texto(texto, opcion):
     elif opcion == 3:
         return texto[::-1]
     else:
-        return "No importa que seas el rojo más deslumbrante e intenso, si su color favorito es el azul (LO QUE QUIERO DECIR ES NO INCORECTO)"
+        return "No importa que seas el rojo más deslumbrante e intenso, si su color favorito es el azul (LO QUE QUIERO DECIR ES NO INCORRECTO)"
 
 
 print("=== MENÚ ===")
