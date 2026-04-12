@@ -68,7 +68,86 @@ comparar = comparar1.casefold() == comparar2.casefold()
 ## para verificar si es nu nuemero o un caracter vamos a utilizar isalfa()
 clasicas2005 = "Gasolina"
 comprarisAlpha = clasicas2005.isalpha()
-#print(comprarisAlpha, 2005)
-#isalpha nos va a dar true si el string que se le esta enviando es unicamente letras
+# print(comprarisAlpha, 2005)
+# isalpha nos va a dar true si el string que se le esta enviando es unicamente letras
+
+## si lo que quiero es que sea solo numero  isalnum
+
+letraCancion = " Los que paso, paso, entre tu y yo."  # 3 no tengo numeor
+decada = "10"
+
+ejemplo = letraCancion.isalnum()
+# print(ejemplo)
+ejemplo = decada.isalnum()
+# print(ejemplo)
+## isalnum verifica si la cadena de texto solo tiene numeros si solo tiene numeros nos va a dar tru
+# si etiene u solo espacio dara false
+
+## varificar que solo sean digitos
+comprobarDecadas = decada.isdigit()
+print(comprobarDecadas)
+
+##si la Cadena de texto tiene numeros
+siTieneNumero = "Bran 2026"
+## este texto tiene numero -> True
+## isnumeric -> es un espacio en la memoria
+# isnumeric() -> dentro de la funcion
+respuesta = siTieneNumero.isnumeric()
+print(respuesta)
+
+## isnumeric como numero que van a estar ejecutanddose desde una
+## cadena de texto
+
+isLowerCase1 = "Ella se fue, me abandono y destrozo mi corazon"
+minusculas = isLowerCase1.islower()
+##isLowerCAse()
+##isLowerCase.isLowerCase
+## true o false
+print("solo minusculas", minusculas)
 
 
+# --------------------------
+## Cristiano Leo Song
+
+## solo debe tener mayusculas
+fraseIconica = "Soltala Erika"
+respuesta = fraseIconica.isupper()
+print(respuesta)
+
+## tener un contenido -> entrada a la funcion que inicie con el
+
+respuesta = fraseIconica.upper().isupper()
+## esta funcion la vamos a encadenar con la otra >:)
+print(respuesta)
+
+respuesta = fraseIconica.title().istitle()
+print(fraseIconica, respuesta)
+
+## cuando una funcion retorna algo (tipo de datos)
+## string -> espacio de memoria diferentes al e un espacio numerico
+## int
+##Float
+##Decimal
+## Booleam
+
+## string -> B r a n -> varables:  lista o un array
+# variable:
+# tiene un tipo
+# mombre que sea unico -> no puede inciar con variables
+# va a tomar siempre el valor de la ultima modificacion
+print(Serie)
+Serie = "Chapulin Colorado"
+print(Serie)
+controlarEspacio = Serie.isspace()
+print(controlarEspacio)
+## vimos:
+# islower
+## isupper
+# isspace
+# isnum
+# isalpha
+
+# -----------------------------------
+
+# Metodos de busqueda
+tema = 
